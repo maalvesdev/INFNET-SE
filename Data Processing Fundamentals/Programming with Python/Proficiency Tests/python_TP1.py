@@ -158,7 +158,7 @@ print("Tempo total em segundos:", tempo_total_segundos)
 print("Energia total:", energia_total)
 
 
-#==Exercício 16 Decomposição de Jornada para Fechamento de Folha==
+#==Exercício 16 - Decomposição de Jornada para Fechamento de Folha==
 #A partir do total de 1527 minutos, calcule a quantidade de horas inteiras trabalhadas 
 #e a quantidade de minutos restantes. Em seguida calcule o valor total referente às horas
 #e o valor total referente aos minutos excedentes.
@@ -180,3 +180,4 @@ valor_total = pagamento_horas + pagamento_minutos
 
 print("Horas completas:", horas_completas, "Minutos excedentes:", minutos_excedentes)
 print("Valor total:", valor_total)
+
