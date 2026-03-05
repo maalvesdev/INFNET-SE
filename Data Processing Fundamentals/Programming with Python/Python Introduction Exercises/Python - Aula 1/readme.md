@@ -24,7 +24,7 @@ print("Hours:", time//60, "Minutes:", time%60)
 ### Example: Converting Celsius to Fahrenheits (`input()`, `float()`)
 
 ```python
-celsius = float(input("Digite a temperatura em Celsius: "))
+celsius = float(input("Enter the temperature in Celsius: "))
 fahrenheit = (celsius*9/5) + 32
 print(fahrenheit)
 ```
