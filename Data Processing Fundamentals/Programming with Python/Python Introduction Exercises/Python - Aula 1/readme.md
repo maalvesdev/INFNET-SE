@@ -13,7 +13,7 @@
 
 ---
 
-### Example: Converting Minutes into Hours and Minutes
+### Example: Converting Minutes into Hours and Minutes (`//`, `%`)
 
 This exercise demonstrates how to convert a number of minutes into hours and remaining minutes using integer division and modulo.
 
@@ -21,7 +21,7 @@ This exercise demonstrates how to convert a number of minutes into hours and rem
 time = 130
 print("Hours:", time//60, "Minutes:", time%60)
 ```
-### Example: Converting Celsius to Fahrenheits
+### Example: Converting Celsius to Fahrenheits (`input()`, `float()`)
 
 ```python
 celsius = float(input("Digite a temperatura em Celsius: "))
