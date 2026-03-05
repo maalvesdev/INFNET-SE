@@ -10,7 +10,7 @@
 
 ---
 
-### Example: Converting Seconds to Minutes
+### Example: Converting Seconds to Minutes (`int()`, `input()`, `f"{}"`)
 
 This exercise converts a number of seconds into minutes and seconds using integer division and modulo.
 
@@ -19,7 +19,7 @@ seconds = int(input("Enter the number of seconds: "))
 print(f"{seconds//60} Minutes and {seconds%60} Seconds")
 ```
 
-### Example: Counting Characters in a Sentence
+### Example: Counting Characters in a Sentence (`.count()`, `len()`)
 
 This exercise counts the total number of characters and the occurrences of the letter "a".
 
