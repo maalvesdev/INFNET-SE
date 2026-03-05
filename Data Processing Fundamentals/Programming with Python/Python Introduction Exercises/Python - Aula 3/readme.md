@@ -15,7 +15,7 @@
 
 ---
 
-### Example: Checking if Text Exists (in)
+### Example: Checking if Text Exists (`in`)
 
 The in operator checks if a word is present in a string.
 
