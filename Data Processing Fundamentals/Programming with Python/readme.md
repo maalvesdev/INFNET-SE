@@ -1,4 +1,4 @@
-# 🐍 Programming Introduction With Python
+# 🐍 Programming Introduction with Python
 
 ---
 
