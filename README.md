@@ -1,13 +1,9 @@
-# 🎓 Software Engineer — Instituto Infnet (2026–2028)
+# 🎓 Software Engineer — Instituto Infnet (2026–2030)
 
-Repositório com atividades e projetos da graduação em **Engenharia de Software** com ênfase em Full Stack e Automação.
+Repository with projects and activities done during my **Software Engineer** degree at Instituto Infnet (2026-2030)
 
-## 📦 Estrutura por Blocos
+## 📅 Semester Guide
 
-### Bloco 01 — Fundamentos do Processamento de Dados
+### Semester 01 - Data Processing Fundamentals
 - `Programming with Python/` → Programming Introduction with Python
 - `Data Visualization & SQL/` → Data Visualization & SQL Introduction
-
-
-## 🔗 Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maalvesdev)
