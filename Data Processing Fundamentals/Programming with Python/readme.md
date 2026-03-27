@@ -8,7 +8,7 @@
 - Comments and good documentation practices
 - Variables and atribuition
 - Basic Data Types: `int`, `float`, `bool`, `string`
-- Arithmetic Operations: `+`, `-`, `*`, `**`, `/`, `//`, `%`
+- Arithmetic Operators: `+`, `-`, `*`, `**`, `/`, `//`, `%`
 - IPO-Mode
 
 **PT2 — Strings and Interactivity**
